@@ -1,4 +1,5 @@
-Todolist example
+Todolist example.
+
 Reactjs 
   - state
   - setState
